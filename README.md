@@ -7,6 +7,7 @@
 <!-- Animated greeting -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello+world!+%F0%9F%91%8B+I'm+nath;I+build+kernels+%26+break+things+%F0%9F%94%A7;42+School+student+%7C+C+%26+Docker+lover" alt="Typing SVG" />
 <br><br>
+<br><br>
 </div>
 
 ---
