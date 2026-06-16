@@ -15,11 +15,11 @@
 
 ```c
 struct Me {
-    char    *school    = "42";
-    char    *passion   = "Low-level programming & systems";
-    char    *status    = "Building kernels from scratch 🛠️";
-    char    *location  = "France 🇫🇷";
-    char    *fun_fact  = "I reinvented printf. Twice.";
+    char    *school        = "42";
+    char    *passion       = "Low-level programming & systems";
+    char    *status        = "Building kernels from scratch 🛠️";
+    char    *location      = "France 🇫🇷";
+    char    *fav_phrase    = "It works on my machine 😁​";
 };
 ```
 
